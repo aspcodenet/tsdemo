@@ -9,6 +9,13 @@ numbers.push(12);
 function bla() {
     console.log("423423423");
 }
+let namnet;
+console.log(namnet);
+namnet = "Stefan";
+function calculateBla() {
+    //if(...) return undefined;
+    return "432423243";
+}
 function calculateTest(a, b) {
     return a + b;
 }

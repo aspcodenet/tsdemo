@@ -15,6 +15,18 @@ function bla() : void{
     console.log("423423423")
 }
 
+// let xaa:string | undefined | number
+// xaa = "Stefgan"
+// xaa = 123
+// xaa = undefined
+
+
+// function calculateBla() : undefined | number{
+//     if(...) return undefined;
+//     return 432423243
+// }
+
+
 
 
 function calculateTest(a:number,b:number) : number{
